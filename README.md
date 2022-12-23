@@ -25,3 +25,4 @@
 + Добавление товаров
 + Удаление товара
 + Редактировать заказ пользователя
+![OC3lcspjmXc](https://user-images.githubusercontent.com/107422886/209281453-a0124679-ef7a-4d64-8e12-5ce5fabda303.jpg)
